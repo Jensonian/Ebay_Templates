@@ -79,6 +79,9 @@
   padding-left: 1rem;
   padding-right: 1rem;
 }
+#header-image {
+  max-width: 100%;
+}
 
 #item-info {
   margin: auto;

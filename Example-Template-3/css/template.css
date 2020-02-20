@@ -51,6 +51,28 @@
   padding: .2rem;
 }
 
+.item-attribute-container {
+  margin: auto;
+  padding: .7rem;
+}
+
+.item-attribute-container * {
+  font-style: normal;
+  margin: auto;
+  line-height: 1.4rem;
+}
+
+#Label {
+  font-weight: normal;
+  font-style: italic;
+}
+#Description {
+  font-size: 1.16rem
+}
+#Additional {
+  font-size: 1rem
+}
+
 .info-table {
   /* width: 100%; */
   margin: auto;
@@ -87,7 +109,7 @@
   margin: auto;
   margin-bottom: 4rem;
   list-style-type: none;
-  max-width: 44rem;
+  max-width: 46rem;
   font-size: 1.2rem;
 
 }

@@ -8,7 +8,9 @@
   margin: auto;
 }
 
+
 .page-header {
+  font-size: min(3vw, 36px);
   color: antiquewhite;
   margin: auto;
   padding-top: 0rem;
